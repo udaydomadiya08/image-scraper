@@ -14,7 +14,7 @@ Traditional scrapers (like Selenium + Google Images) constantly break, get block
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/universal-ai-scraper.git
+git clone https://github.com/udaydomadiya08/universal-ai-scraper.git
 cd universal-ai-scraper
 ```
 
